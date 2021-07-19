@@ -14,11 +14,11 @@
 |2|ミドルプレート（透明・中）|1||
 |3|ボトムプレート（黒・中）|1||
 |4|ボトムプレート（透明・小）|1||
-|5|ネジ（短）|12|3mm|
+|5|ネジ（短）|8|3mm|
 |6|ネジ（長）|8|5mm|
-|7|スペーサー（短）|6|3mm|
+|7|スペーサー（短）|4|3mm|
 |8|スペーサー（長）|4|8mm|
-|9|ダイオード|17||
+|9|ダイオード|18||
 |10|リセットスイッチ|1||
 |12|ゴム足|4||
 
@@ -26,8 +26,8 @@
 |部品名|数|||
 |-|-|-|-|
 |Pro Micro コンスルー付き|1||[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/promicro-spring-pinheader)|
-|キースイッチ|17|Kailh Choc V2（V1は未確認です）|[遊舎工房様販売ページ](https://shop.yushakobo.jp/collections/all-switches/products/kailh-choc-v2)|
-|キーキャップ|17|CherryMX互換・1U||
+|キースイッチ|18|Kailh Choc V2（V1は未確認です）|[遊舎工房様販売ページ](https://shop.yushakobo.jp/collections/all-switches/products/kailh-choc-v2)|
+|キーキャップ|18|CherryMX互換・1U||
 |Micro USB ケーブル|1|データ通信対応でUSB2.0 Micro-Bのもの。|
 
 ## オプション
