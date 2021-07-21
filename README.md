@@ -150,24 +150,10 @@ Pro Microを覆うようにネジ（長）で止めます。
 ![](img/layout.png)
 [Keyboard Layout Editor で見る](http://www.keyboard-layout-editor.com/##@_name=Layout%20-%20Armors%20KEYPAD;&@_x:0.5&a:7;&=F1&=F2&=F3&=F4&=F5&_x:1.5;&=F1&=F2&=F3&=F4&=F5&_x:1.5&c=#e0cb58&fa@:1;;&=前のパターン&_c=#cccccc;&=&=&_c=#e0cb58;&=次のパターン&_c=#decf7e;&=;&@_c=#cccccc&a:5&f:3;&=!%0A%0A%0A%0A%0A%0A1&_f:3;&=/@%0A%0A%0A%0A%0A%0A2&_f:3;&=#%0A%0A%0A%0A%0A%0A3&_f:3;&=$%0A%0A%0A%0A%0A%0A4&_f:3;&=%25%0A%0A%0A%0A%0A%0A5&_fa@:0&:1&:0&:0&:0&:0&:1;;&=~%0A長押しLOWER%0A%0A%0A%0A%0A%60&_x:0.5&c=#8792d6&a:7;&=F6&=F7&=F8&=F9&=F10&_c=#98a3d4;&=&_x:0.5&c=#cccccc;&=&_c=#e0cb58;&=色相+&=彩度+&=明度+&_fa@:1;;&=スピード+&_c=#cccccc;&=;&@_a:5&f:3;&=%5E%0A%0A%0A%0A%0A%0A6&_f:3;&=/&%0A%0A%0A%0A%0A%0A7&_f:3;&=*%0A%0A%0A%0A%0A%0A8&_f:3;&=(%0A%0A%0A%0A%0A%0A9&_f:3;&=)%0A%0A%0A%0A%0A%0A0&_c=#aaaaaa&a:7&f:3;&=shift&_x:0.5&c=#8792d6&f:3;&=F11&_f:3;&=F12&_c=#cccccc;&=&=&=&_c=#aaaaaa;&=&_x:0.5&c=#e0cb58&f:3;&=ON//OFF&_f:3;&=色相-&_f:3;&=彩度-&_f:3;&=明度-&_f:3;&=スピード-&_c=#aaaaaa;&=)  
 
-使わないキーを削除したり使用頻度の高いキーを押しやすい位置に変更してみましょう。
-
-Chrome, EdgeがインストールされていればRemapを使うとブラウザだけでキーマップを変更できます。  
-[Remapを使う場合](remap.md)  
-
-そうでない場合はVIAをインストールして、下記JSONファイルをダウンロードしてください。
-- VIA [https://github.com/the-via/releases/releases](https://github.com/the-via/releases/releases)
-- [armors.json](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/untagged-6f31185aea07d10a6589/popntop.json)
-
-起動したらSETTINGタブに移りShow Design tabをオンにします。  
-![](img/via1.png)  
-
-DESIGNタブが出てくるのでクリックして、LOADボタンを押してダウンロードしたJSONファイルを指定しましょう。  
-CONFIGUREタブに行くとキーマップを設定できるようになっています。  
-
-![](img/via2.png)  
-キーボードのシルエットの変更したいキーをクリックしてから打ちたい文字をクリックするとキーマップがかわり、既にキーボードには反映されています。  
-
+使わないキーを削除したり使用頻度の高いキーを押しやすい位置に変更してみましょう。  
+  
+ChromeかEdgeでRemapにアクセスしてください。  
+  
 ## 液晶タブレットに乗せる場合
 1番上の行を引っ掛ける事で液タブに乗せる事ができます。
 ![](img/tab.jpeg)　　
