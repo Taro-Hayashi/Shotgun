@@ -46,6 +46,7 @@
 |鉛入りはんだ||
 |細いドライバー|+の1番ドライバー。|
 |ニッパー等ダイオードの足を切れるもの|金属用でない場合刃こぼれします。|
+|Microsoft Edge、もしくはGoogle Chrome||
 
 ## あると便利な工具
 |工具名||
@@ -102,22 +103,19 @@
 Pro Microに動作ソフト（ファームウェア）を書き込んで動作確認をしましょう。  
 キットとPCをUSBケーブルでつないでください。   
 
-Chrome, Edgeを使っているならPro Micro Web Updaterだとブラウザだけでファームウェアを書き込めます。  
-[Pro Micro Web Updaterを使う場合](promicrowebupdater.md)  
+ファームウェアをダウンロードしてPro Micro Web Updaterにアクセスしてください。
+- テスト用ファームウェア [popntop_test.hex](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/untagged-6f31185aea07d10a6589/popntop_test.hex)
+- Pro Micro Web Updater https://sekigon-gonnoc.github.io/promicro-web-updater/index.html
 
-使わない場合、QMK Toolboxをインストールしてテスト用のファームウェアをダウンロードして下さい。  
-- QMK Toolbox https://github.com/qmk/qmk_toolbox/releases 
-- テスト用ファームウェア [armors_test.hex](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/untagged-6f31185aea07d10a6589/popntop_test.hex)
+ファイルの選択ボタンを押してダウンロードしたファームウェアを指定したら、flashボタンを押しましょう。  
+![](img/promicrowebupdater1.jpg)  
 
-Openを押してダウンロードしたファイルを指定してAuto-Flashにチェックを入れます。  
-MCUがatmega32u4になっていることも確認します。  
-![赤の部分に注意](img/qmktoolbox1.png)
-　　
-キットのリセットスイッチを押すとPro Microが赤く光り自動でファームウェアが書き込まれます。  
-"Thank you"のメッセージが出たら書き込み完了です。
-![](img/qmktoolbox2.png)  
-（エラーが出る場合Auto-Flashのチェックを外し、先にリセットスイッチを押してQMK ToolboxのFlashのボタンを押してみてください。）  
+ブラウザのアドレスバーからメッセージが出てきたら、キットのリセットスイッチを押します。      
+すると選択欄にArduino Microが出てきてクリックできるようになります。  
+![](img/promicrowebupdater2.jpg)  
 
+選択して接続を押すと書き込みが終わります。  
+![](img/promicrowebupdater3.jpg)  
 ファームウェアを更新する時もこの手順で行います。  
 
 タイプすると1-17の数字が打てるはずです。  
