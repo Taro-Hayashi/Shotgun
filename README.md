@@ -192,9 +192,7 @@ https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/shotgun
 ミドル、ボトムプレートのデザインデータ  
 [popntop_plates.zip]()  
 発注先のルールに沿ってデータを修正してください。  
-マット加工されたアクリルでLEDを付けると光が拡散して柔らかい印象になります。 
-![](img/mat.jpg)　
-  
+
 ご不明な点があればBOOTHのメッセージかtwitterのリプライでいつでも聞いてください。  
   
 foostan様のフットプリントを流用、改変して使わせていただきました。  
