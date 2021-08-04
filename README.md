@@ -111,7 +111,7 @@ Pro Microに動作ソフト（ファームウェア）を書き込んで動作�
 キットとPCをUSBケーブルでつないでください。   
 
 ファームウェアをダウンロードしてPro Micro Web Updaterにアクセスしてください。
-- テスト用ファームウェア [popntop_test.hex](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/untagged-6f31185aea07d10a6589/popntop_test.hex)
+- テスト用ファームウェア [popntop_test.hex](https://github.com/Taro-Hayashi/Shotgun/releases/download/1.0/shotgun_test.hex)
 - Pro Micro Web Updater https://sekigon-gonnoc.github.io/promicro-web-updater/index.html
 
 ファイルの選択ボタンを押してダウンロードしたファームウェアを指定したら、flashボタンを押しましょう。  
@@ -142,7 +142,7 @@ USBケーブルを抜いてプレートを組付けます。
 ![](img/bottom3.jpg)   
 
 キーキャップを取り付けたら本番用のファームウェアに更新しましょう。
-- [armors_via.hex](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/untagged-6f31185aea07d10a6589/popntop_via.hex)
+- [armors_via.hex](https://github.com/Taro-Hayashi/Shotgun/releases/download/1.0/shotgun_via.hex)
 
 ゴム足を貼ったら完成です。
 ![](img/done.jpeg)  
@@ -155,7 +155,7 @@ USBケーブルを抜いてプレートを組付けます。
 使わないキーを削除したり使用頻度の高いキーを押しやすい位置に変更してみましょう。  
   
 JSONファイルをダウンロードしたらChromeかEdgeでRemapにアクセスしてください。  
-- [shotgun.json]()
+- [shotgun.json](https://github.com/Taro-Hayashi/Shotgun/releases/download/1.0/shotgun.json)
 - [Remap](https://remap-keys.app/)
   
 ![](img/remap1.png)  
@@ -178,7 +178,7 @@ JSONファイルをダウンロードしたらChromeかEdgeでRemapにアクセ�
 寸法です。ダンボールで作れるペーパークラフトもあります。
 ![](img/size.png)　　
 ![](img/danbo.jpg)　　
-- [realsizeA4.pdf]()  
+- [realsizeA4.pdf](https://github.com/Taro-Hayashi/Shotgun/releases/download/1.0/realsizeA4.pdf)  
 - ネットプリント番号: SD9TTJJF 8/12まで　
 
 A4サイズです。定規があればプリントしなくても作れます。
@@ -187,7 +187,7 @@ A4サイズです。定規があればプリントしなくても作れます。
 https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/shotgun
   
 ミドル、ボトムプレートのデザインデータ  
-[popntop_plates.zip]()  
+[popntop_plates.zip](https://github.com/Taro-Hayashi/Shotgun/releases/download/1.0/shotgun.zip)  
 発注先のルールに沿ってデータを修正してください。  
 
 ご不明な点があればBOOTHのメッセージかtwitterのリプライでいつでも聞いてください。  
