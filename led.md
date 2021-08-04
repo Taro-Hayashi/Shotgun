@@ -9,7 +9,8 @@ LEDの切り欠きとシルク印刷のコーナーを合わせてはんだ付�
 メインボードにフラックスを塗り、こて先にのせたはんだを流し込むようにするとスムーズに付けられます。  
 青丸はキースイッチを安定させるためだけの穴なので回路上どことも接続しておらずはんだが繋がってしまっても大丈夫ですが、穴が埋まってしまうとスイッチが入らなくなります。  
 先にLEDを取り付ける予定の人ははんだ吸い取り線等を用意してください。
-
+![](img/led1_5.jpg)  
+  
 LEDテスト用のファームウェアです。  
 [ledtest_default.tex](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/untagged-6f31185aea07d10a6589/ledtest_default.hex)
   
