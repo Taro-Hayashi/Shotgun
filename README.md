@@ -155,7 +155,7 @@ USBケーブルを抜いてプレートを組付けます。
   
 JSONファイルをダウンロードしたらChromeかEdgeでRemapにアクセスしてください。  
 - [shotgun.json](https://github.com/Taro-Hayashi/Shotgun/releases/download/1.0/shotgun.json)
-- [Remap](https://remap-keys.app/)
+- Remap https://remap-keys.app/
   
 ![](img/remap1.png)  
 左を選んで進んでいくとJSONファイルを求められるのでダウンロードしたものを指定します。  
