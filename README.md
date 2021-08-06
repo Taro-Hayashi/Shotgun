@@ -153,13 +153,11 @@ USBケーブルを抜いてプレートを組付けます。
 
 使わないキーを削除したり使用頻度の高いキーを押しやすい位置に変更してみましょう。  
   
-JSONファイルをダウンロードしたらChromeかEdgeでRemapにアクセスしてください。  
-- [shotgun.json](https://github.com/Taro-Hayashi/Shotgun/releases/download/1.0/shotgun.json)
+ChromeかEdgeでRemapにアクセスしてください。  
 - Remap https://remap-keys.app/
   
 ![](img/remap1.png)  
-左を選んで進んでいくとJSONファイルを求められるのでダウンロードしたものを指定します。  
-![](img/remap2.png)   
+左を選んで進んでいくとアドレスバーからメッセージが出てキーボードを選択できます。  
   
 変更が終わったら右上のflashボタンを押すと反映されます。  
 ![](img/remap3.png)  
@@ -184,6 +182,8 @@ A4サイズです。定規があればプリントしなくても作れます。
 
 ファームウェアのフォルダ  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/shotgun
+  
+VIA用JSONファイル [shotgun.json](https://github.com/Taro-Hayashi/Shotgun/releases/download/1.0/shotgun.json)  
   
 ミドル、ボトムプレートのデザインデータ  
 [shotgun_plates.zip](https://github.com/Taro-Hayashi/Shotgun/releases/download/1.0/shotgun.zip)  
