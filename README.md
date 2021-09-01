@@ -169,7 +169,6 @@ ChromeかEdgeでRemapにアクセスしてください。
 ![](img/size.png)　　
 ![](img/danbo.jpg)　　
 - [realsizeA4.pdf](https://github.com/Taro-Hayashi/Shotgun/releases/download/1.0/realsizeA4.pdf)  
-- ネットプリント番号: SD9TTJJF 8/12まで　
 
 A4サイズです。定規があればプリントしなくても作れます。
 
