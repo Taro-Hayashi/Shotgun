@@ -107,7 +107,7 @@ Pro Microに動作ソフト（ファームウェア）を書き込んで動作�
 キットとPCをUSBケーブルでつないでください。   
 
 ファームウェアをダウンロードしてPro Micro Web Updaterにアクセスしてください。
-- テスト用ファームウェア [shotgun_test.hex](https://github.com/Taro-Hayashi/Shotgun/releases/download/1.0/shotgun_test.hex)
+- テスト用ファームウェア [shotgun_test.hex](https://github.com/Taro-Hayashi/Shotgun/releases/download/14.6/shotgun_test.hex)
 - Pro Micro Web Updater https://sekigon-gonnoc.github.io/promicro-web-updater/index.html
 
 ファイルの選択ボタンを押してダウンロードしたファームウェアを指定したら、flashボタンを押しましょう。  
@@ -137,7 +137,7 @@ USBケーブルを抜いてプレートを組付けます。
 ![](img/bottom3.jpg)   
 
 キーキャップを取り付けたら本番用のファームウェアに更新しましょう。
-- [shotgun_via.hex](https://github.com/Taro-Hayashi/Shotgun/releases/download/1.0/shotgun_via.hex)
+- [shotgun_via.hex](https://github.com/Taro-Hayashi/Shotgun/releases/download/14.6/shotgun_via.hex)
 
 ゴム足を貼ったら完成です。
 ![](img/done.jpeg)  
