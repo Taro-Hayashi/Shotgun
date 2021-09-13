@@ -166,17 +166,17 @@ ChromeかEdgeでRemapにアクセスしてください。
 寸法です。ダンボールで作れるペーパークラフトもあります。
 ![](img/size.png)　　
 ![](img/danbo.jpg)　　
-- [realsizeA4.pdf](https://github.com/Taro-Hayashi/Shotgun/releases/download/1.0/realsizeA4.pdf)  
+- [realsizeA4.pdf](https://github.com/Taro-Hayashi/Shotgun/releases/download/14.15/realsizeA4.pdf)  
 
 A4サイズです。定規があればプリントしなくても作れます。
 
 ファームウェアのフォルダ  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/shotgun
 
-VIA用JSONファイル [shotgun.json](https://github.com/Taro-Hayashi/Shotgun/releases/download/1.0/shotgun.json)  
+VIA用JSONファイル [shotgun.json](https://github.com/Taro-Hayashi/Shotgun/releases/download/14.15/shotgun.json)  
 
 ミドル、ボトムプレートのデザインデータ  
-[shotgun_plates.zip](https://github.com/Taro-Hayashi/Shotgun/releases/download/1.0/shotgun_plates.zip)  
+[shotgun_plates.zip](https://github.com/Taro-Hayashi/Shotgun/releases/download/14.15/shotgun_plates.zip)  
 発注先のルールに沿ってデータを修正してください。  
 
 ご不明な点があればBOOTHのメッセージかtwitterでいつでも聞いてください。  
