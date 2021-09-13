@@ -37,7 +37,7 @@
 |WS2812B|5|無くてもバックライトだけ光ります。|[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a0800ws-01-10)|
 |1N4148W|18|表面実装タイプのダイオード|[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a0800di-02-100)|
 |両面テープ||ねじの頭の0.5㎜より厚いものがおすすめです。||
- 
+
 ## 必要な工具
 |工具名| |
 |-|-|
@@ -63,11 +63,11 @@
 |リードベンダー||
 
 ## 組み立て方（はんだ付け）
-  
+
 はんだ付けのやり方は動画で見るとわかりやすいです。  
 パーツは思ったより壊れないので落ち着いて作業すると失敗しにくいです。  
  - ホームセンターのDCMさんの解説動画(58秒～) https://www.youtube.com/watch?v=JFQg_ObITYE&t=58s
-  
+
 それではダイオードをD1からD18まで取り付けます。  
 足を曲げて裏から差し込みます。  
 ダイオードには向きがあります。三角形の先の棒と黒線を合わせましょう。  
@@ -105,7 +105,7 @@ Pro Microに動作ソフト（ファームウェア）を書き込んで動作�
 キットとPCをUSBケーブルでつないでください。   
 
 ファームウェアをダウンロードしてPro Micro Web Updaterにアクセスしてください。
-- テスト用ファームウェア [shotgun_test.hex](https://github.com/Taro-Hayashi/Shotgun/releases/download/14.6/shotgun_test.hex)
+- テスト用ファームウェア [shotgun_test.hex](https://github.com/Taro-Hayashi/Shotgun/releases/download/14.15/shotgun_test.hex)
 - Pro Micro Web Updater https://sekigon-gonnoc.github.io/promicro-web-updater/index.html
 
 ファイルの選択ボタンを押してダウンロードしたファームウェアを指定したら、flashボタンを押しましょう。  
@@ -130,12 +130,12 @@ USBケーブルを抜いてプレートを組付けます。
 メインボード裏面の赤丸の箇所にスペーサー（短）をネジ（短）で取り付けてミドルプレート（透明・中）を嵌めます。
 ![](img/bottom2.jpg)  
 ボトムプレート（黒・中）をネジ（短）で止めます。  
-  
+
 メインボードの残ったネジ穴にスペーサー（長）をネジ（長）で取り付け、ボトムプレート（透明・小）をネジ（長）で止めます。  
 ![](img/bottom3.jpg)   
 
 キーキャップを取り付けたら本番用のファームウェアに更新しましょう。
-- [shotgun_via.hex](https://github.com/Taro-Hayashi/Shotgun/releases/download/14.6/shotgun_via.hex)
+- [shotgun_via.hex](https://github.com/Taro-Hayashi/Shotgun/releases/download/14.15/shotgun_via.hex)
 
 ゴム足を貼ったら完成です。
 ![](img/done.jpeg)  
@@ -146,16 +146,16 @@ USBケーブルを抜いてプレートを組付けます。
 [Keyboard Layout Editor で見る](http://www.keyboard-layout-editor.com/#/gists/2a190f28f4e33f743adb7195d6259d90)  
 
 使わないキーを削除したり使用頻度の高いキーを押しやすい位置に変更してみましょう。  
-  
+
 ChromeかEdgeでRemapにアクセスしてください。  
 - Remap https://remap-keys.app/
-  
+
 ![](img/remap1.png)  
 左を選んで進んでいくとアドレスバーからメッセージが出てキーボードを選択できます。  
-  
+
 変更が終わったら右上のflashボタンを押すと反映されます。  
 ![](img/remap3.png)  
-  
+
 ## 液晶タブレットに乗せる場合
 1番上の行を引っ掛ける事で液タブに乗せる事ができます。
 ![](img/tab.jpeg)　　
@@ -172,16 +172,16 @@ A4サイズです。定規があればプリントしなくても作れます。
 
 ファームウェアのフォルダ  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/shotgun
-  
+
 VIA用JSONファイル [shotgun.json](https://github.com/Taro-Hayashi/Shotgun/releases/download/1.0/shotgun.json)  
-  
+
 ミドル、ボトムプレートのデザインデータ  
 [shotgun_plates.zip](https://github.com/Taro-Hayashi/Shotgun/releases/download/1.0/shotgun_plates.zip)  
 発注先のルールに沿ってデータを修正してください。  
 
 ご不明な点があればBOOTHのメッセージかtwitterでいつでも聞いてください。  
 販売ページ: https://tarohayashi.booth.pm/items/3154474
-  
+
 foostan様のフットプリントを流用、改変して使わせていただきました。  
 https://github.com/foostan/kbd/  
 https://github.com/foostan/kbd/blob/master/LICENSE  

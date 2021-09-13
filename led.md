@@ -10,10 +10,10 @@ LEDの切り欠きとシルク印刷のコーナーを合わせてはんだ付�
 青丸はキースイッチを安定させるためだけの穴なので回路上どことも接続しておらずはんだが繋がってしまっても大丈夫ですが、choc V2の場合は穴が埋まってしまうとスイッチが入らなくなります。  
 先にLEDを取り付ける予定の人ははんだ吸い取り線等を用意してください。
 ![](img/led1_5.jpg)  
-  
+
 LEDテスト用のファームウェアです。  
-- [ledtest_default.tex](https://github.com/Taro-Hayashi/Shotgun/releases/download/14.6/ledtest_default.hex)
-  
+- [ledtest_default.tex](https://github.com/Taro-Hayashi/Shotgun/releases/download/14.15/ledtest_default.hex)
+
 LEDは直列に配線されています。  
 ![](img/led2.jpeg)  
 ひとつ発光しないLEDがある場合その先のLEDは正しくはんだ付けされていても光らなくなるので画像と見比べてどこが原因かを調べましょう。
@@ -22,5 +22,5 @@ LEDは直列に配線されています。
 ESC長押しでRGB操作用のレイヤーになります。  
 ![](img/layoutrgb.png)  
 [Keyboard Layout Editor で見る](http://www.keyboard-layout-editor.com/#/gists/2a190f28f4e33f743adb7195d6259d90)  
-  
+
   ブラウザの機能で戻ってください。
