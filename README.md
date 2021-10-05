@@ -174,8 +174,9 @@ VIA用JSONファイル [shotgun.json](https://github.com/Taro-Hayashi/Shotgun/re
 発注先のルールに沿ってデータを修正してください。  
 
 ご不明な点があればBOOTHのメッセージかtwitterでいつでも聞いてください。  
-販売ページ: https://tarohayashi.booth.pm/items/3154474
 
 foostan様のフットプリントを流用、改変して使わせていただきました。  
 https://github.com/foostan/kbd/  
 https://github.com/foostan/kbd/blob/master/LICENSE  
+  
+- BOOTH: https://tarohayashi.booth.pm/items/3154474
