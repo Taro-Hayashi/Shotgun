@@ -167,7 +167,7 @@ A4サイズです。定規があればプリントしなくても作れます。
 ファームウェアのフォルダ  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/shotgun
 
-VIA用JSONファイル [shotgun.json](https://github.com/Taro-Hayashi/Shotgun/releases/download/14.15/shotgun.json)  
+VIA用JSONファイル [shotgun.json](https://github.com/Taro-Hayashi/Shotgun/releases/download/14.20/shotgun.json)  
 
 ミドル、ボトムプレートのデザインデータ  
 [shotgun_plates.zip](https://github.com/Taro-Hayashi/Shotgun/releases/download/14.15/shotgun_plates.zip)  
