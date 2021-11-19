@@ -169,7 +169,7 @@ https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/shotgun
 VIA用JSONファイル [shotgun.json](https://github.com/Taro-Hayashi/Shotgun/releases/download/14.20/shotgun.json)  
 
 ミドル、ボトムプレートのデザインデータ  
-[shotgun_plates.zip](https://github.com/Taro-Hayashi/Shotgun/releases/download/14.15/shotgun_plates.zip)  
+[shotgun_plates.zip](https://github.com/Taro-Hayashi/Shotgun/releases/download/14.31/shotgun_plates.zip)  
 発注先のルールに沿ってデータを修正してください。  
 
 ご不明な点があればBOOTHのメッセージかtwitterでいつでも聞いてください。  
