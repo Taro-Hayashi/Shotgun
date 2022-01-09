@@ -26,7 +26,7 @@
 |部品名|数|||
 |-|-|-|-|
 |Pro Micro|1||[遊舎工房](https://shop.yushakobo.jp/products/pro-micro)、[コンスルー付き](https://shop.yushakobo.jp/products/promicro-spring-pinheader)、[TALPKEYBOARD](https://talpkeyboard.net/items/5b24504ba6e6ee7ec60063e3)、[Daily Craft Keyboard・コンスルー付き](https://shop.dailycraft.jp/products/promicro_with_conthrou)|
-|コンスルー 12ピン（高さ2mmか2.5mm）|2|Pro Micro付属のピンヘッダでも製作可能です。|[遊舎工房](https://shop.yushakobo.jp/products/31?_pos=1&_sid=ca92edae3&_ss=r&variant=37665714372769)、[TALPKEYBOARD](https://talpkeyboard.net/items/5e056626d790db16e2889233)、[Daily Craft Keyboard](https://shop.dailycraft.jp/products/conthrough)|
+|コンスルー 12ピン（高さ2mmか2.5mm）|2||[遊舎工房](https://shop.yushakobo.jp/products/31?_pos=1&_sid=ca92edae3&_ss=r&variant=37665714372769)、[TALPKEYBOARD](https://talpkeyboard.net/items/5e056626d790db16e2889233)、[Daily Craft Keyboard](https://shop.dailycraft.jp/products/conthrough)|
 |キースイッチ|18|Kailhロープロファイル（V1, V2)|[遊舎工房・V1](https://shop.yushakobo.jp/collections/all-switches/products/pg1350)、[遊舎工房・V2](https://shop.yushakobo.jp/collections/all-switches/products/kailh-choc-v2)、[Daily Craft Keyboard](https://shop.dailycraft.jp/collections/choc-switches)|
 |キーキャップ|18||V1は専用のキーキャップ、V2はCherryMXをご用意ください。|
 |Micro USB ケーブル|1||[遊舎工房](https://shop.yushakobo.jp/products/usb-cable-micro-b-0-8m)、[TALPKEYBOARD](https://talpkeyboard.net/items/5df82904a551d528d7360c34)、[Daily Craft Keyboard](https://shop.dailycraft.jp/products/usb_cable)|
@@ -93,8 +93,6 @@
 ![](img/promicro5.jpg)   
 そして、Pro Micro側のコンスルーの足を半田付けします。  
 ![](img/promicro6.jpg)    
-コンスルーの場合はこのまま表面ははんだ付けせずに抜き差しが出来るようにします。  
-Pro Microに付属のピンヘッダを使う場合は表面もはんだ付けして固定します。  
 
 ## 動作テスト
 Pro Microに動作ソフト（ファームウェア）を書き込んで動作確認をしましょう。  
