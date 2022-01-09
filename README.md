@@ -10,10 +10,10 @@
 ![パーツ一覧](img/IMG_3938.jpg)  
 ||部品名|数| |
 |-|-|-|-|
-|1|メインボード（黒・大）|1||
-|2|ミドルプレート（透明・中）|1||
-|3|ボトムプレート（黒・中）|1||
-|4|ボトムプレート（透明・小）|1||
+|1|メインボード|1||
+|2|ミドルプレート|1||
+|3|ボトムプレート|1||
+|4|ボトムプレート|1||
 |5|ネジ（短）|8|3mm|
 |6|ネジ（長）|8|5mm|
 |7|スペーサー（短）|4|3mm|
@@ -25,11 +25,11 @@
 ## キット以外に必要なもの
 |部品名|数|||
 |-|-|-|-|
-|Pro Micro|1||[遊舎工房](https://shop.yushakobo.jp/products/pro-micro)、[コンスルー付き](https://shop.yushakobo.jp/products/promicro-spring-pinheader)、[TALPKEYBOARD](https://talpkeyboard.net/items/5b24504ba6e6ee7ec60063e3)、[Daily Craft Keyboard・コンスルー付き](https://shop.dailycraft.jp/products/promicro_with_conthrou)|
-|コンスルー 12ピン（高さ2mmか2.5mm）|2||[遊舎工房](https://shop.yushakobo.jp/products/31?_pos=1&_sid=ca92edae3&_ss=r&variant=37665714372769)、[TALPKEYBOARD](https://talpkeyboard.net/items/5e056626d790db16e2889233)、[Daily Craft Keyboard](https://shop.dailycraft.jp/products/conthrough)|
-|キースイッチ|18|Kailhロープロファイル（V1, V2)|[遊舎工房・V1](https://shop.yushakobo.jp/collections/all-switches/products/pg1350)、[遊舎工房・V2](https://shop.yushakobo.jp/collections/all-switches/products/kailh-choc-v2)、[Daily Craft Keyboard](https://shop.dailycraft.jp/collections/choc-switches)|
-|キーキャップ|18||V1は専用のキーキャップ、V2はCherryMXをご用意ください。|
-|Micro USB ケーブル|1||[遊舎工房](https://shop.yushakobo.jp/products/usb-cable-micro-b-0-8m)、[TALPKEYBOARD](https://talpkeyboard.net/items/5df82904a551d528d7360c34)、[Daily Craft Keyboard](https://shop.dailycraft.jp/products/usb_cable)|
+|Pro Micro|1||[遊舎工房](https://shop.yushakobo.jp/products/pro-micro)、[コンスルー付き](https://shop.yushakobo.jp/products/promicro-spring-pinheader) / [TALPKEYBOARD](https://talpkeyboard.net/items/5b24504ba6e6ee7ec60063e3) / [Daily Craft Keyboard・コンスルー付き](https://shop.dailycraft.jp/products/promicro_with_conthrou)|
+|コンスルー12ピン (高さ2mmか2.5mm)|2||[遊舎工房](https://shop.yushakobo.jp/products/31?_pos=1&_sid=ca92edae3&_ss=r&variant=37665714372769) / [TALPKEYBOARD](https://talpkeyboard.net/items/5e056626d790db16e2889233) / [Daily Craft Keyboard](https://shop.dailycraft.jp/products/conthrough)|
+|キースイッチ|18|[Kailh choc V1](https://shop.yushakobo.jp/collections/all-switches/products/pg1350)、もしくは[Kailh Choc V2](https://shop.yushakobo.jp/collections/all-switches/products/kailh-choc-v2)|
+|キーキャップ|18|V1は[専用キーキャップ](https://shop.yushakobo.jp/collections/keycaps/For-Choc-v1)、V2は[CherryMX互換](https://shop.yushakobo.jp/collections/keycaps/cherry-mx-%E4%BA%92%E6%8F%9B-%E3%82%AD%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97)です。|
+|Micro USB ケーブル|1||
 
 
 ## オプション
