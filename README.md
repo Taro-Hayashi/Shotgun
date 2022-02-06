@@ -164,7 +164,7 @@ ChromeかEdgeでRemapにアクセスしてください。
 A4サイズです。定規があればプリントしなくても作れます。
 
 ファームウェアのフォルダ  
-https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/shotgun
+https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/tarohayashi/shotgun
 
 VIA用JSONファイル [shotgun.json](https://github.com/Taro-Hayashi/Shotgun/releases/download/14.20/shotgun.json)  
 
