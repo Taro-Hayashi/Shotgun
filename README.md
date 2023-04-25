@@ -137,7 +137,7 @@ ChromeかEdgeでRemapにアクセスしてください。
 ゴム足を外して両面テープで固定すると安定します。  
 跡が残るといけないので画面には保護フィルムを貼ってください。  
 
-## おまけ
+## その他
 ファームウェアのフォルダ  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/shotgun
 
