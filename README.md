@@ -4,6 +4,7 @@
 - [動作テスト](#動作テスト)
 - [組み立て方（後半）](#組み立て方後半)
 - [カスタマイズ](#カスタマイズ)
+- [その他](#その他)
 
 ## キット内容
 ![パーツ一覧](img/IMG_3816.jpg)  
@@ -24,18 +25,17 @@
 ## キット以外に必要なもの
 |部品名|数||
 |-|-|-|
-|Pro Micro|1|[遊舎工房](https://shop.yushakobo.jp/products/pro-micro) / [TALPKEYBOARD](https://talpkeyboard.net/items/5b24504ba6e6ee7ec60063e3) / [DailyCraftKeyboardコンスルー付き](https://shop.dailycraft.jp/products/promicro_with_conthrou)|
-|コンスルー12ピン (高さ2mmか2.5mm)|2|[遊舎工房](https://shop.yushakobo.jp/products/31?_pos=1&_sid=ca92edae3&_ss=r&variant=37665714372769) / [TALPKEYBOARD](https://talpkeyboard.net/items/5e056626d790db16e2889233) / [DailyCraftKeyboard](https://shop.dailycraft.jp/products/conthrough)|
+|[Pro Micro](https://shop.yushakobo.jp/products/pro-micro)|1||
 |キースイッチ|18|[Kailh choc V1](https://shop.yushakobo.jp/collections/all-switches/products/pg1350)、もしくは[Kailh Choc V2](https://shop.yushakobo.jp/collections/all-switches/products/kailh-choc-v2)|
 |キーキャップ|18|V1は[専用キーキャップ](https://shop.yushakobo.jp/collections/keycaps/For-Choc-v1)、V2は[CherryMX互換](https://shop.yushakobo.jp/collections/keycaps/cherry-mx-%E4%BA%92%E6%8F%9B-%E3%82%AD%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97)です。|
-|Micro USB ケーブル|1||
+|Micro-USB ケーブル|1||
+ - [Pro Micro互換品とコンスルーの対応表](promicro.md)  
 
-
-## LED（[取り付け方](led.md)）
-|部品名|数|||
-|-|-|-|-|
-|SK6812MINI-E|18|バックライト|[遊舎工房](https://shop.yushakobo.jp/products/sk6812mini-e-10) / [秋月電子通商](https://akizukidenshi.com/catalog/g/gI-15478/)|
-|WS2812B|5|アンダーグロー|[遊舎工房](https://shop.yushakobo.jp/products/a0800ws-01-10) / [秋月電子通商](https://akizukidenshi.com/catalog/g/gI-07915/)|
+### LED（[取り付け方](led.md)）
+|部品名|数||
+|-|-|-|
+|[SK6812MINI-E](https://shop.yushakobo.jp/products/sk6812mini-e-10)|18|バックライト|
+|[WS2812B](https://shop.yushakobo.jp/products/a0800ws-01-10)|5|アンダーグロー|
 
 ## 必要な工具
 |工具名|
@@ -52,29 +52,35 @@
 ## 組み立て方（はんだ付け）
 ダイオードをD1からD17まで取り付けます。  
 足を曲げて裏から差し込みます。  
-![](img/IMG_3195.jpg)  
+![](img/IMG_3824.jpg)  
 ダイオードには向きがあります。三角形の先の棒と黒線を合わせましょう。  
 
 表で更に足を曲げて抜けないようにします。  
-![](img/IMG_3196.jpg)   
+![](img/IMG_3829.jpg)   
 はんだ付けをして足を切ります。  
-![](img/IMG_3197.jpg)   
+![](img/IMG_3830.jpg)   
 
 リセットスイッチを裏から差し込み表ではんだ付けします。  
-![](img/reset3.jpg)  
+![](img/IMG_3833.jpg)  
+
+Pro Microの取り付け場所にピンヘッダーの短い側を差し込みます。
+![](img/IMG_3836.jpg)  
+位置決めのためにPro Mioroを乗せますが、はんだ付けはせず表にします。
+![](img/IMG_3837.jpg)  
+![](img/IMG_3838.jpg)  
+メインボードにピンヘッダーをはんだ付けします。
+![](img/IMG_3839.jpg)  
+Pro Microをいったん外します。
+
 
 キースイッチを表から差し込み裏ではんだ付けします。  
-![](img/keyswitch.jpg)  
+![](img/IMG_3835.jpg)
 
-メインボードの裏にコンスルーを挿します。  
-コンスルーの窓が高くて両方とも同じ向きになるように設置します。  
-![](img/IMG_3190.jpg)   
-挿すだけではんだ付けはしません。  
+隠れてしまうダイオードの方向が合っているか、キースイッチの足がはんだ付けされているかを再度確認してください。  
+足をニッパーで切ったらはんだ付けします。
+![](img/IMG_3841.jpg)  
+![](img/IMG_3842.jpg)  
 
-コンスルーにPro Microを挿します。TX0, RAW, USBの位置をシルク印刷と合わせましょう。  
-![](img/promicro5.jpg)   
-そして、Pro Micro側のコンスルーの足を半田付けします。  
-![](img/promicro6.jpg)    
 
 ## 動作テスト
 Pro Microに動作ソフト（ファームウェア）を書き込んで動作確認をしましょう。  
@@ -102,18 +108,18 @@ USBケーブルを抜いてプレートを組付けます。
 アクリルからは保護フィルムを剥がしてください。割れやすいので気をつけましょう。  
 
 メインボード裏面の赤丸の箇所にスペーサー（短）をネジ（短）で取り付けてミドルプレート（透明・中）を嵌めます。
-![](img/bottom2.jpg)  
+![](img/IMG_3844.jpg)  
 ボトムプレート（黒・中）をネジ（短）で止めます。  
 
 メインボードの残ったネジ穴にスペーサー（長）をネジ（長）で取り付け、ボトムプレート（透明・小）をネジ（長）で止めます。  
-![](img/bottom3.jpg)   
+![](img/IMG_3848.jpg)   
 
 キーキャップを取り付けたら先ほどと同様の手順で本番用のファームウェアに更新しましょう。
 - https://remap-keys.app/catalog/ZtSa0psj9iLGK8vNxolN/firmware
 ![](img/remap06.jpg)  
 
 ゴム足を貼ったら完成です。
-![](img/done.jpeg)  
+![](img/IMG_3850.jpg)  
 
 ## カスタマイズ
 このキットはレイヤー機能を使っています。
