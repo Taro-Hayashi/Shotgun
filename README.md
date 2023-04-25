@@ -3,16 +3,15 @@
 - [組み立て方（はんだ付け）](#組み立て方はんだ付け)
 - [動作テスト](#動作テスト)
 - [組み立て方（後半）](#組み立て方後半)
-- [カスタマイズ](#キーマップの確認変更方法)
-- [おまけ](#おまけ)
+- [カスタマイズ](#カスタマイズ)
 
 ## キット内容
 ![パーツ一覧](img/IMG_3816.jpg)  
 ||部品名|数| |
 |-|-|-|-|
 |1|メインボード|1||
-|2|ミドルプレート|1||
-|3|ボトムプレート|1||
+|2|ボトムプレート|1||
+|3|ミドルプレート|1||
 |4|ボトムプレート|1||
 |5|ネジ（短）|8|3mm|
 |6|ネジ（長）|8|5mm|
@@ -48,27 +47,10 @@
 |ニッパー等ダイオードの足を切れるもの|
 |Microsoft Edge、もしくはGoogle Chrome|
 
-## あると便利な工具
-|工具名|
-|-|
-|耐熱シリコンマット|
-|温度調節可能なはんだごて|
-|斜めに切ったタイプのこて先|
-|フラックス|
-|フラックスリムーバー、IPA|
-|ピンセット|
-|マスキングテープ|
-|テスター|
-|はんだ吸い取り線|
-|はんだ吸い取り器|
+
 
 ## 組み立て方（はんだ付け）
-
-はんだ付けのやり方は動画で見るとわかりやすいです。  
-パーツは思ったより壊れないので落ち着いて作業すると失敗しにくいです。  
- - ホームセンターのDCMさんの解説動画(58秒～) https://www.youtube.com/watch?v=JFQg_ObITYE&t=58s
-
-それではダイオードをD1からD17まで取り付けます。  
+ダイオードをD1からD17まで取り付けます。  
 足を曲げて裏から差し込みます。  
 ![](img/IMG_3195.jpg)  
 ダイオードには向きがあります。三角形の先の棒と黒線を合わせましょう。  
@@ -133,7 +115,7 @@ USBケーブルを抜いてプレートを組付けます。
 ゴム足を貼ったら完成です。
 ![](img/done.jpeg)  
 
-## キーマップの確認、変更方法
+## カスタマイズ
 このキットはレイヤー機能を使っています。
 ![](img/3.png)
 [Keyboard Layout Editor で見る](http://www.keyboard-layout-editor.com/#/gists/2a190f28f4e33f743adb7195d6259d90)  
@@ -156,13 +138,6 @@ ChromeかEdgeでRemapにアクセスしてください。
 跡が残るといけないので画面には保護フィルムを貼ってください。  
 
 ## おまけ
-寸法です。ダンボールで作れるペーパークラフトもあります。
-![](img/size.png)　　
-![](img/danbo.jpg)　　
-- [realsizeA4.pdf](https://github.com/Taro-Hayashi/Shotgun/releases/download/14.15/realsizeA4.pdf)  
-
-A4サイズです。定規があればプリントしなくても作れます。
-
 ファームウェアのフォルダ  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/shotgun
 
@@ -171,8 +146,6 @@ VIA用JSONファイル [shotgun.json](https://github.com/Taro-Hayashi/Shotgun/re
 ミドル、ボトムプレートのデザインデータ  
 [shotgun_plates.zip](https://github.com/Taro-Hayashi/Shotgun/releases/download/14.31/shotgun_plates.zip)  
 発注先のルールに沿ってデータを修正してください。  
-
-ご不明な点があればBOOTHのメッセージかtwitterでいつでも聞いてください。  
 
 foostan様のフットプリントを流用、改変して使わせていただきました。  
 https://github.com/foostan/kbd/  
