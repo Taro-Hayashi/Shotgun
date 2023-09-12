@@ -147,10 +147,10 @@ ChromeかEdgeでRemapにアクセスしてください。
 ファームウェアのフォルダ  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/archive/shotgun
 
-VIA用JSONファイル [shotgun.json](https://github.com/Taro-Hayashi/Shotgun/releases/download/14.20/shotgun.json)  
+VIA用JSONファイル [shotgun.json](https://github.com/Taro-Hayashi/Shotgun/releases/latest/download/shotgun.json)  
 
 ミドル、ボトムプレートのデザインデータ  
-[shotgun_plates.zip](https://github.com/Taro-Hayashi/Shotgun/releases/download/14.31/shotgun_plates.zip)  
+[shotgun_plates.zip](https://github.com/Taro-Hayashi/Shotgun/releases/latest/download/shotgun_plates.zip)  
 発注先のルールに沿ってデータを修正してください。  
 
 foostan様のフットプリントを流用、改変して使わせていただきました。  
