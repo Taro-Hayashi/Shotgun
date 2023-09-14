@@ -147,7 +147,6 @@ ChromeかEdgeでRemapにアクセスしてください。
 ファームウェアのフォルダ  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/archive/shotgun
 
-VIA用JSONファイル [shotgun.json](https://github.com/Taro-Hayashi/Shotgun/releases/latest/download/shotgun.json)  
 
 ミドル、ボトムプレートのデザインデータ  
 [shotgun_plates.zip](https://github.com/Taro-Hayashi/Shotgun/releases/latest/download/shotgun_plates.zip)  
